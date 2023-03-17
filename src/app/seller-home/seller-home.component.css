@@ -1,0 +1,20 @@
+table {
+  text-align: left;
+  color: rgb(0, 132, 255);
+}
+table td,
+table th {
+  border: 1px solid skyblue;
+  padding: 10px;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+.update-icon {
+  margin-left: 20px;
+}
+.product-list h2 {
+  text-align: center;
+  color: skyblue;
+}

@@ -1,0 +1,118 @@
+{
+  "Seller": [
+    {
+      "name": "Shubam Jadhav",
+      "email": "shubhamjadhav4899@gmail.com",
+      "pass": "1234",
+      "id": 1
+    },
+    {
+      "email": "shubhamjadhav4899@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "name": "Rushi chavan",
+      "email": "r@123",
+      "password": "123",
+      "id": 3
+    }
+  ],
+  "Products": [
+    {
+      "name": "HP printer",
+      "price": "12000",
+      "color": "white",
+      "category": "printer",
+      "description": "Moab White, Ink Bottle",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/printer/v/r/t/smart-tank-all-in-one-529-hp-original-imagkqjrbah7gdgw.jpeg?q=70",
+      "id": 2
+    },
+    {
+      "name": "iPhone 14",
+      "price": "65000",
+      "color": "white",
+      "category": "mobile",
+      "description": "APPLE iPhone 14 (Purple, 128 GB)",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/b/u/f/-original-imaghxa5hvapbfds.jpeg?q=70",
+      "id": 3
+    },
+    {
+      "name": "VINCENT CHASE ",
+      "price": "800",
+      "color": "black",
+      "category": "fashion",
+      "description": "by Lenskart UV Protection Round Sunglasses",
+      "image": "https://rukminim1.flixcart.com/image/832/832/kn7sdjk0/sunglass/i/f/h/58-vc-s13833-vincent-chase-original-imagfyduvugezqqu.jpeg?q=70",
+      "id": 4
+    },
+    {
+      "name": "Lenovo Tab ",
+      "price": "10000",
+      "color": "silver",
+      "category": "Electronic",
+      "description": "4 GB RAM 128 GB ROM 11 inch with Wi-Fi+4G Tablet (Storm Grey)",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/tablet/g/x/g/-original-imagg65uhpgfynut.jpeg?q=70",
+      "id": 5
+    },
+    {
+      "name": "New Balance ",
+      "price": "4,537",
+      "color": "white",
+      "category": "fashion",
+      "description": "5740 Running Shoes For Men  (Multicolor)\n",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/shoe/o/p/m/-original-imaghrbyugsjkyzh.jpeg?q=70",
+      "id": 6
+    },
+    {
+      "name": "LIMESTONE ",
+      "price": "500",
+      "color": "gold",
+      "category": "fashion",
+      "description": "Day & Date Original HMTS Gold Plated Adjsutable HMTS Bracelet Quartz Analog Watch - For Men",
+      "image": "https://rukminim1.flixcart.com/image/832/832/l0jwbrk0/watch/r/1/y/1-ls3062-limestone-men-original-imagcbbvkzzvwz9q.jpeg?q=70",
+      "id": 7
+    },
+    {
+      "name": "anushansa ",
+      "price": "500",
+      "color": "green",
+      "category": "fashion",
+      "description": "Women Printed Viscose Rayon Flared Kurta",
+      "image": "https://rukminim1.flixcart.com/image/832/832/xif0q/kurta/h/k/r/xl-4colour-flower-kurti-anushansa-original-imaghykpg75wyzb7.jpeg?q=70",
+      "id": 8
+    },
+    {
+      "name": "OPPO Enco Buds 2",
+      "price": "2000",
+      "color": "black",
+      "category": "Electronic",
+      "description": "with 28 hours Battery life & Deep Noise Cancellation Bluetooth Headset  (Midnight, True Wireless)",
+      "image": "https://rukminim1.flixcart.com/image/416/416/xif0q/headphone/p/r/z/enco-buds-2-oppo-original-imagh9frfp7gxdb3.jpeg?q=70",
+      "id": 9
+    },
+    {
+      "name": "",
+      "price": "",
+      "color": "",
+      "category": "",
+      "description": "",
+      "image": "",
+      "id": 10
+    }
+  ],
+  "users": [
+    {
+      "name": "shubham",
+      "email": "shubham",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "shubham",
+      "email": "shubham",
+      "password": "123",
+      "id": 2
+    }
+  ]
+}
